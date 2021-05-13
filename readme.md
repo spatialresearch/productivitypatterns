@@ -1,6 +1,6 @@
 # applications & services 2021<br>
 ## 🦍/🧅 administration 01.05
-* Windows 
+* Windows (https://www.microsoft.com/en-in/windows)[You can count on Windows 10.]
 * Office 365 [https://www.office.com/] (Your place to create, communicate, collaborate, and get great work done.)
 * Google Workspace [https://workspace.google.com/] (Everything you need to get anything done, now in one place.)
 * Kaspersky internet security [https://www.kaspersky.co.in/internet-security] (Stay safe – whatever you do at work & at home.)
