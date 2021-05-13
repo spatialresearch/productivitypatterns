@@ -1,10 +1,10 @@
 # applications & services 2021<br>
 ## 🦍/🧅 administration 01.05
-* Windows [https://www.microsoft.com/en-in/windows](You can count on Windows 10.) 
-* Office 365 [https://www.office.com/](Your place to create, communicate, collaborate, and get great work done.)
-* Google Workspace [https://workspace.google.com/](Everything you need to get anything done, now in one place.)
-* Kaspersky internet security [https://www.kaspersky.co.in/internet-security](Stay safe – whatever you do at work & at home.)
-* Yahoo! Mail [https://in.mail.yahoo.com/](Let's take a trip into a more organised inbox.)
+* Windows [https://www.microsoft.com/en-in/windows] (You can count on Windows 10.) 
+* Office 365 [https://www.office.com/] (Your place to create, communicate, collaborate, and get great work done.)
+* Google Workspace [https://workspace.google.com/] (Everything you need to get anything done, now in one place.)
+* Kaspersky internet security [https://www.kaspersky.co.in/internet-security] (Stay safe – whatever you do at work & at home.)
+* Yahoo! Mail [https://in.mail.yahoo.com/] (Let's take a trip into a more organised inbox.)
 ## 🐅/🥕 writing 04.14
 * Medium https://medium.com/ Where good ideas find you. 
 * Substack https://substack.com/ Take back your mind. 
