@@ -1,5 +1,5 @@
 # 2111281915
-## problem statement for a productivity patterns database. 
+#### problem statement for a productivity patterns database. 
 
 * A gap exists on how to select the right productivity system for personal or small business knowledge management.
 * The fronts that direct thinking as of today are the broader tools of thought collectives around note-taking applications and productivity coaching shops of note-taking, journaling, and writing.
@@ -25,4 +25,5 @@ Five stages of problem solving,
 * (b) problem definition and formulation, 
 * (c) generation of alternatives, 
 * (d) decision making, and 
-* (e) verification from D’Zurilla, T. J., & Goldfried, M. R. (1971). Problem solving and behaviour modification.
+* (e) verification 
+  * from D’Zurilla, T. J., & Goldfried, M. R. (1971). Problem solving and behaviour modification.
