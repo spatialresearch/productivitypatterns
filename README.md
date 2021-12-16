@@ -1,3 +1,3 @@
-# thoughttools
-* Windows [You can count on Windows 10.](https://www.microsoft.com/en-in/windows) 
-* [Windows](https://www.microsoft.com/en-in/windows) You can count on Windows 10. 
+# #productivitypatterns
+* productivity is a framework designed to create knowledge. 
+* what is productivity? how is it defined? how does it create knowledge?
