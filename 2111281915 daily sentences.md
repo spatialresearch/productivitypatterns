@@ -21,11 +21,11 @@
 _
 
 Five stages of problem solving _ 
-(a) general orientation or "set," 
-(b) problem definition and formulation, 
-(c) generation of alternatives, 
-(d) decision making, and 
-(e) verification from D’Zurilla, T. J., & Goldfried, M. R. (1971). Problem solving and behaviour modification
+* (a) general orientation or "set," 
+* (b) problem definition and formulation, 
+* (c) generation of alternatives, 
+* (d) decision making, and 
+* (e) verification from D’Zurilla, T. J., & Goldfried, M. R. (1971). Problem solving and behaviour modification
 
 also 
 https://foambubble.github.io/foam/#getting-started
