@@ -11,4 +11,4 @@
 * (c) generation of alternatives, 
 * (d) decision making, and 
 * (e) verification 
-  * source: **D’Zurilla, T. J., & Goldfried, M. R. (1971). Problem solving and behaviour modification**.
+  * source: __D’Zurilla, T. J., & Goldfried, M. R. (1971). Problem solving and behaviour modification__.
