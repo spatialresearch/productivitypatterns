@@ -1,0 +1,1 @@
+#productivitypatterns links to #writingpractice 
