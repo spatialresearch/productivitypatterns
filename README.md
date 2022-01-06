@@ -9,6 +9,7 @@
   * rethink zettelkasten
   * think productivity in non .md file formats
 # working updates
+* 2201060721-45 | shoppingtheatre
 * 2112071729 extended draft list published
 * 2112151801 timeline
 * 2112161941 item type VS02, preliminary attempt in classification
