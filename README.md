@@ -10,6 +10,7 @@
   * rethink zettelkasten
   * think productivity in non .md file formats
 # working updates
+* 2201101943 forking gordon's patterns and library
 * 2201060745 pinkzoo2017 reverts to shoppingtheatre2003
 * 2112071729 extended draft list published
 * 2112151801 timeline
