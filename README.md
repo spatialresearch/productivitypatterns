@@ -2,7 +2,7 @@
 > “Language is merely a tool we use to translate our thoughts. In the future we won’t need to code thoughts into language – we will uniformly send symbols and ideas and concepts without speaking … in the future, speech will be what baby talk is today.” [Kevin Warwick](https://www.wired.com/2000/02/warwick/) quoted in [Infoglut, How Too Much Information is Changing the Way We Think and Know](https://www.routledge.com/Infoglut-How-Too-Much-Information-Is-Changing-the-Way-We-Think-and-Know/Andrejevic/p/book/9780415659086) by [Mark Andrejevic](https://research.monash.edu/en/publications/infoglut-how-too-much-information-is-changing-the-way-we-think-an). 
 * 👆 productivity is a framework designed to create knowledge. 
   * what is productivity? 
-  * how is it defined? 
+  * how is it defined, formed, quanitifed? 
   * when does it create knowledge?
 # project aim
 * facilitate design of file based, visual and spatial productivity systems
