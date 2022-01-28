@@ -17,5 +17,5 @@
 * 2112151801 timeline
 * 2112161941 item type VS02, preliminary attempt in classification
 * 2112202329 item type VS03, revised class fields
-* _ item type VS 05, PWM elements
+* _ item type VS04, PWM elements
 * 2201281121 item type VS05, place field
