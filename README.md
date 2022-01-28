@@ -10,12 +10,11 @@
   * rethink zettelkasten
   * think productivity in non .md file formats
 # working updates
+* 2201281121 item type VS05, place field
 * 2201181023 personal workflow management | PWM = PDM + PIM + PKM
 * 2201101943 forking gordon's patterns and library
 * 2201060745 pinkzoo2017 reverts to shoppingtheatre2003
 * 2112071729 extended draft list published
-* 2112151801 timeline
-* 2112161941 item type VS02, preliminary attempt in classification
 * 2112202329 item type VS03, revised class fields
-* _ item type VS04, PWM elements
-* 2201281121 item type VS05, place field
+* 2112161941 item type VS02, preliminary attempt in classification
+* 2112151801 timeline
