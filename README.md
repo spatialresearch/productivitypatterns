@@ -17,4 +17,4 @@
 * 2112071729 extended draft list published
 * 2112202329 item type VS03, revised class fields
 * 2112161941 item type VS02, preliminary attempt in classification
-* 2112151801 timeline
+* 2112151801 introduced timeline as field
