@@ -10,6 +10,7 @@
   * rethink zettelkasten
   * think productivity in non .md file formats
 # working updates
+* 2203230917 VSs and #s deleted on views, added PWM & Place tabs
 * 2201281121 item type VS05, place field
 * 2201181023 personal workflow management | PWM = PDM + PIM + PKM
 * 2201101943 forking gordon's patterns and library
