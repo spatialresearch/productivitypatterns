@@ -25,10 +25,23 @@
   * [Let Christopher Alexander design your life](https://archive.curbed.com/2019/7/11/20686495/pattern-language-christopher-alexander)
 * papers
   * [The Structure of Pattern Languages](https://doi.org/10.1017/S1359135500002591) | https://applied.math.utsa.edu/~yxk833/StructurePattern.html 
-  * [Lingua Francas for Design: Sacred Places and Pattern Languages](https://dl.acm.org/doi/10.1145/347642.347794)  | http://www.pliant.org/personal/Tom_Erickson/LinguaFranca_DIS2000.html 
+  * [Lingua Francas for Design: Sacred Places and Pattern Languages](https://dl.acm.org/doi/10.1145/347642.347794)
+  * [Some notes on Christopher Alexander](https://applied.math.utsa.edu/~yxk833/Chris.text.html)
+  * [Empirical Findings from The Nature of Order](https://api.semanticscholar.org/CorpusID:159273908)
+  * [Christopher Alexander’s Battle for Beauty in a World Turning Ugly: The Inception of a Science of Architecture?](https://www.sciencedirect.com/science/article/pii/S2405872620300459)
+  * [Christopher Alexander’s Theory of Wholeness as a Tetrad of Creative Activity: The Examples of A New Theory of Urban Design and The Nature of Order](https://www.mdpi.com/2413-8851/3/2/46)
+  * [Wiki as pattern language](https://dl.acm.org/doi/10.5555/2725669.2725707)
+  * [Main Structure Concept: A Role for the Individual in City Planning](https://www.jstor.org/stable/43613395)
+  * [Problems before patterns: a different look at Christopher Alexander and pattern languages](https://dl.acm.org/doi/10.1145/1487632.1487637)
+  * [Edward Tufte meets Christopher Alexander](https://dl.acm.org/doi/10.1145/1085313.1085322) 
+  * [An Interdisciplinary Study of Information Systems: Christopher Alexander and is Failure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=717321) 
+  * [A Search for Beauty/A Struggle with Complexity: Christopher Alexander](https://www.mdpi.com/2413-8851/3/2/64)
+  * [Connecting to the World: Christopher Alexander’s Tool for Human-Centered Design](https://www.sciencedirect.com/science/article/pii/S2405872620300666)
+  * [Christopher Alexander: an introduction for object-oriented designers](https://dl.acm.org/doi/10.1145/181610.181617)
+  * [Christopher Alexander’s A Pattern Language: analysing, mapping and classifying the critical response](https://cityterritoryarchitecture.springeropen.com/articles/10.1186/s40410-017-0073-1)
 * videos
   * [Life in Buildings](https://youtu.be/oKO3vYjZbcs)
-  * [Spaces for the Soul](https://youtu.be/NAjz0INs3Lc) | https://www.amazon.com/Places-Soul-Tries-World-Transforming/dp/B07F39L6XW
+  * [Spaces for the Soul](https://youtu.be/NAjz0INs3Lc)
   * [Patterns in Architecture](https://youtu.be/98LdFA-_zfA)
   * [Lecture at Berkeley, California](https://youtu.be/mDwbK_rqyGM)
   * [David Schwarz and Randy Schmidt](https://youtu.be/aeJZRRQgbyU)
