@@ -11,8 +11,8 @@
   * think productivity in non .md file formats
 # #readingalexander
 * books
-  * The Timeless Way of Building https://archive.org/details/the-timeless-way-of-building-christopher-alexander-126
-  * A Foreshadowing of 21st Century Art https://archive.org/details/AForeshadowingOf21stCenturyArt/mode/2up
+  * [The Timeless Way of Building](https://archive.org/details/the-timeless-way-of-building-christopher-alexander-126)
+  * [A Foreshadowing of 21st Century Art](https://archive.org/details/AForeshadowingOf21stCenturyArt/mode/2up)
 * posts
   * The Origins of a Pattern Theory, The Future of the Theory, and The Generation of a Living World http://www.patternlanguage.com/archive/ieee.html 
   * A City is not a Tree http://www.patternlanguage.com/archive/cityisnotatree.html
