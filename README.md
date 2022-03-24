@@ -14,8 +14,9 @@
   *  
 * papers
   *
-* video
-  * 
+* videos
+  * Life in Buildings https://youtu.be/oKO3vYjZbcs![image](https://user-images.githubusercontent.com/84097051/159939917-8bcb6e9c-38bb-44df-9d76-0f13b5a33ed5.png)
+* websites
 # working updates
 * 2203242001 added reading alexander, tracing knowledge maps
 * 2203230917 time, VSs and #s deleted on views, added PWM & Place tabs
