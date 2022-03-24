@@ -9,14 +9,25 @@
   * evolution of frameworks of productivity
   * rethink zettelkasten
   * think productivity in non .md file formats
-# reading alexander
+# #readingalexander
 * posts
   *  
 * papers
   *
 * videos
-  * Life in Buildings https://youtu.be/oKO3vYjZbcs![image](https://user-images.githubusercontent.com/84097051/159939917-8bcb6e9c-38bb-44df-9d76-0f13b5a33ed5.png)
+  * Life in Buildings https://youtu.be/oKO3vYjZbcs
+  * Spaces for the Soul https://youtu.be/NAjz0INs3Lc | https://www.amazon.com/Places-Soul-Tries-World-Transforming/dp/B07F39L6XW
+  * Patterns in Architecture https://youtu.be/98LdFA-_zfA
+  * Lecture at Berkeley, California https://youtu.be/mDwbK_rqyGM
+  * Christopher Alexander https://youtu.be/aeJZRRQgbyU 
+  * Artemis Anninou and Howard Davis https://youtu.be/HJcPBG4ixBg
+  * A City Is (Not) A Tree: New Models of Urban Space https://youtu.be/Qk_mrNvBvVw
+  * Fifteen Fundamental Properties https://www.youtube.com/watch?v=gGTjJZhnl4A 
+  * Notes on the Synthesis of Form AB+C 70 https://youtu.be/m3pUP_pHb-U 
+  * Pattern Language AB+C 71 https://youtu.be/v9NEuBig3X0 
+
 * websites
+  * Pattern Language http://www.patternlanguage.com/
 # working updates
 * 2203242001 added reading alexander, tracing knowledge maps
 * 2203230917 time, VSs and #s deleted on views, added PWM & Place tabs
