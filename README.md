@@ -13,7 +13,7 @@
 * posts
   *  
 * papers
-  *
+  * The Structure of Pattern Languages https://applied.math.utsa.edu/~yxk833/StructurePattern.html | https://doi.org/10.1017/S1359135500002591 
 * videos
   * Life in Buildings https://youtu.be/oKO3vYjZbcs
   * Spaces for the Soul https://youtu.be/NAjz0INs3Lc | https://www.amazon.com/Places-Soul-Tries-World-Transforming/dp/B07F39L6XW
@@ -29,7 +29,7 @@
   * Pattern Language http://www.patternlanguage.com/
   * Wherever you are in the world, if you are intent on planning and building a thriving neighborhood http://www.livingneighborhoods.org/
   * Nature of Order http://www.natureoforder.com/overview.htm/
-  * No 3 http://www.katarxis3.com/index.html
+  * Katarxis No 3 http://www.katarxis3.com/index.html
 # working updates
 * 2203242001 added reading alexander, tracing knowledge maps
 * 2203230917 time, VSs and #s deleted on views, added PWM & Place tabs
