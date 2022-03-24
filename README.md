@@ -48,8 +48,8 @@
   * [Artemis Anninou and Howard Davis](https://youtu.be/HJcPBG4ixBg)
   * [A City Is (Not) A Tree: New Models of Urban Space](https://youtu.be/Qk_mrNvBvVw)
   * [Fifteen Fundamental Properties](https://www.youtube.com/watch?v=gGTjJZhnl4A)
-  * [Notes on the Synthesis of Form AB+C 70](https://youtu.be/m3pUP_pHb-U)
-  * [Pattern Language AB+C 71](https://youtu.be/v9NEuBig3X0)
+  * [Notes on the Synthesis of Form](https://youtu.be/m3pUP_pHb-U)
+  * [Pattern Language](https://youtu.be/v9NEuBig3X0)
 * websites
   * [Pattern Language](http://www.patternlanguage.com/)
   * [Wherever you are in the world, if you are intent on planning and building a thriving neighborhood](http://www.livingneighborhoods.org/)
