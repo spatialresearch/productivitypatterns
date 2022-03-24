@@ -10,10 +10,14 @@
   * rethink zettelkasten
   * think productivity in non .md file formats
 # #readingalexander
+* books
+  * The Timeless Way of Building https://archive.org/details/the-timeless-way-of-building-christopher-alexander-126
+  * A Foreshadowing of 21st Century Art https://archive.org/details/AForeshadowingOf21stCenturyArt/mode/2up
 * posts
   *  
 * papers
   * The Structure of Pattern Languages https://applied.math.utsa.edu/~yxk833/StructurePattern.html | https://doi.org/10.1017/S1359135500002591 
+  * Lingua Francas for Design: Sacred Places and Pattern Languages http://www.pliant.org/personal/Tom_Erickson/LinguaFranca_DIS2000.html | https://dl.acm.org/doi/10.1145/347642.347794 
 * videos
   * Life in Buildings https://youtu.be/oKO3vYjZbcs
   * Spaces for the Soul https://youtu.be/NAjz0INs3Lc | https://www.amazon.com/Places-Soul-Tries-World-Transforming/dp/B07F39L6XW
