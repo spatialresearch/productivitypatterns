@@ -19,15 +19,16 @@
   * Spaces for the Soul https://youtu.be/NAjz0INs3Lc | https://www.amazon.com/Places-Soul-Tries-World-Transforming/dp/B07F39L6XW
   * Patterns in Architecture https://youtu.be/98LdFA-_zfA
   * Lecture at Berkeley, California https://youtu.be/mDwbK_rqyGM
-  * Christopher Alexander https://youtu.be/aeJZRRQgbyU 
+  * David Schwarz and Randy Schmidt https://youtu.be/aeJZRRQgbyU 
   * Artemis Anninou and Howard Davis https://youtu.be/HJcPBG4ixBg
   * A City Is (Not) A Tree: New Models of Urban Space https://youtu.be/Qk_mrNvBvVw
   * Fifteen Fundamental Properties https://www.youtube.com/watch?v=gGTjJZhnl4A 
   * Notes on the Synthesis of Form AB+C 70 https://youtu.be/m3pUP_pHb-U 
   * Pattern Language AB+C 71 https://youtu.be/v9NEuBig3X0 
-
 * websites
   * Pattern Language http://www.patternlanguage.com/
+  * Wherever you are in the world, if you are intent on planning and building a thriving neighborhood http://www.livingneighborhoods.org/
+  * Nature of Order http://www.natureoforder.com/overview.htm/
 # working updates
 * 2203242001 added reading alexander, tracing knowledge maps
 * 2203230917 time, VSs and #s deleted on views, added PWM & Place tabs
