@@ -24,7 +24,7 @@
   * [How Christopher Alexander Changed Architecture—and Much More](https://commonedge.org/how-christopher-alexander-changed-architecture-and-much-more/)
   * [Let Christopher Alexander design your life](https://archive.curbed.com/2019/7/11/20686495/pattern-language-christopher-alexander)
 * papers
-  * [The Structure of Pattern Languages](https://doi.org/10.1017/S1359135500002591) | https://applied.math.utsa.edu/~yxk833/StructurePattern.html 
+  * [The Structure of Pattern Languages](https://doi.org/10.1017/S1359135500002591)
   * [Lingua Francas for Design: Sacred Places and Pattern Languages](https://dl.acm.org/doi/10.1145/347642.347794)
   * [Some notes on Christopher Alexander](https://applied.math.utsa.edu/~yxk833/Chris.text.html)
   * [Empirical Findings from The Nature of Order](https://api.semanticscholar.org/CorpusID:159273908)
