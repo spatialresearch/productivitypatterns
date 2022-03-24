@@ -9,7 +9,15 @@
   * evolution of frameworks of productivity
   * rethink zettelkasten
   * think productivity in non .md file formats
+# reading alexander
+* posts
+  *  
+* papers
+  *
+* video
+  * 
 # working updates
+* 2203242001 added reading alexander, tracing knowledge maps
 * 2203230917 time, VSs and #s deleted on views, added PWM & Place tabs
 * 2201281121 item type VS05, place field
 * 2201181023 personal workflow management | PWM = PDM + PIM + PKM
