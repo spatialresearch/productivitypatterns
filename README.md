@@ -29,6 +29,7 @@
   * Pattern Language http://www.patternlanguage.com/
   * Wherever you are in the world, if you are intent on planning and building a thriving neighborhood http://www.livingneighborhoods.org/
   * Nature of Order http://www.natureoforder.com/overview.htm/
+  * No 3 http://www.katarxis3.com/index.html
 # working updates
 * 2203242001 added reading alexander, tracing knowledge maps
 * 2203230917 time, VSs and #s deleted on views, added PWM & Place tabs
