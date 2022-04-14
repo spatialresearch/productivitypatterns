@@ -1,6 +1,5 @@
-2204131753 daily sentences
-
-* alexander in the metaverse and other imaginations
+## 2204131753 daily sentences
+* alexander in the metaverse and other imaginations.
 
 
 technical performance 
