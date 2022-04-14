@@ -1,5 +1,5 @@
 ## 2204141047 daily sentences
-## reading #alexander on IPFS draft 02.01
+## reading #alexander on IPFS draft 02.02
 
 * 01 notes on the synthesis of form | 4 books/ 2 reports
   * [1963 b Chermayeff, Alexander _ Community and Privacy](https://dweb.link/ipfs/bafybeieqvhrqgimeocqpdgmp47xz3fkadtupdes25cehpssu35nc7gion4)
