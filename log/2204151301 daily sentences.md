@@ -15,7 +15,7 @@ Between the metropolis in 1978 to the hinterland of 2020 spans a practice that i
 It is Alexandra Lange who brings Christopher and Rem together in her review of big architectural books on curbed as Overdue books.
 She though stops at that.
 Curiously both have 16 books published, Rem can definitely go more but publishing patterns remain almost similar.
-Christopher goes from the village to the planet between 1962 and 2012, an almost similar time frame as well.     
+Christopher goes from the village to the planet between 1962 and 2012, an almost similar time frame as well.
 Like Rem, Christopher has a cult following albeit among programmers and scientists.
 The 60's was about design methods which changes form into architectural research in the late '90's and early 2000's. 
 Practice of architecture as theory which then is repurposed. 
