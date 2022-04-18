@@ -22,3 +22,4 @@ I borrow a proposition from Molly Wright Steenson's 2017 Architectural Intellige
 Alexander's later ideas are also simple enough for the chaps to not grumble about it being archispeak.
 Then there is a possibility that the master plan for the metaverse as a virtual #patternlanguage procedurally informed has a workable vibe.
 * 2204151233
+* posted https://www.instagram.com/p/CcZzzWEPxiZ/
