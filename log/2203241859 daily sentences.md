@@ -22,3 +22,4 @@ All of Alexander's work is an attempt to fine tune the assembly of spatial organ
 Patterns takes a western turn when it becomes a language but there is some definitive future that was planned in the past which got buried in the detritus of time.
 There is no evidence of Alexander in India after that but using his ideas to rethink regional discourses is a welcome, found opportunity.
 * 2203311237
+* posted https://www.instagram.com/p/Cb1YumiPqYR/
