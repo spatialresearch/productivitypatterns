@@ -24,7 +24,7 @@ Rem has even lesser points of contact in #indianarchitecture since he has active
 He is part of the Eisenman network too.
 The 60years identified what are the significant contributions to guide a future?
 * 2204180027
+* posted https://www.instagram.com/p/Ccf9w2Ivh_1/
 * references
 * Let Christopher Alexander design your life https://archive.curbed.com/2019/7/11/20686495/pattern-language-christopher-alexander 
 * Rem Koolhaas is the real diva https://archive.curbed.com/2019/8/22/20755386/rem-koolhaas-smlxl-review-oma 
-* posted https://www.instagram.com/p/Ccf9w2Ivh_1/
