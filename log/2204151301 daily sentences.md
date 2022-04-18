@@ -8,9 +8,9 @@ Origins of all, even Schön should stem from the decade.
 Then there is the revolution in the May of '68.
 Rem made popular the virtual in architecture, that is how we get AMO.
 Research was a way to contribute to a landscape by locating, ideally a critical position on it.
-As a screen writer by training he started his career by writing scripts.
+As a screen writer by training he started his career writing scripts.
 His texts and his buildings are positioned as narratives, screen plays almost. 
-Rem sold his buildings are blockbuster offerings, even S is XL.
+Rem sold his buildings are blockbuster offerings where even S is XL.
 Between the metropolis in 1978 to the hinterland of 2020 spans a practice that influences an entire culture of architecture of a time. 
 It is Alexandra Lange who brings Christopher and Rem together in her review of big architectural books on curbed as Overdue books.
 She though stops at that.
