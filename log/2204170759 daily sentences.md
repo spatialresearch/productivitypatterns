@@ -14,15 +14,15 @@
 * question/ Can #alexander revitalize interests in architectural theory as a practice mandate?
 * aim/ map progress of Christopher Alexander's practice, the network it produced between and after the books published from '62 to '12
 * objectives/ 
-  * 01. to draft a methodology to conduct a literature search on work produced by a practice of a past from knowledge products distributed online.         
-  * 02. to identify the key concepts advanced by alexander and its development in the years he's been active. 
-  * 03. to model an accessible framework to aid construction of a practice archive which guides future work   
+  * 01 to draft a methodology to conduct a literature search on work produced by a practice of a past from knowledge products distributed online.         
+  * 02 to identify the key concepts advanced by alexander and its development in the years he's been active. 
+  * 03 to model an accessible framework to aid construction of a practice archive which guides future work   
 
 ### 4.	Resources, Methods
 * compile the #alexander reading list - 2months April May 2022. Objective 01/ Using https://www.patternlanguage.com/ca/vitae.htm as a reference point collecting books, papers, and lectures are in progress. Possibilities to gather different material content with various levels of access onto a single virtual platform are ongoing tests. All of #alexander books are sourced and his papers are in process of being compiled. Some behind paywalls require institutional support to access. 
-* archive anxiety, literature search in the post information age - 2months June July. The necessity of the project came about owing to work done on mumbaiopendata.org and questions it posed on the status of architectural practice in India. Archive fever of a time is now upgraded to archive anxiety as a state to conceptualise social material culture of today. The paper presented addresses how times have changed and what are the new methods to identify these changes, thus necessitating a newer articulation. 
+  * archive anxiety, literature search in the post information age - 2months June July. The necessity of the project came about owing to work done on mumbaiopendata.org and questions it posed on the status of architectural practice in India. Archive fever of a time is now upgraded to archive anxiety as a state to conceptualise social material culture of today. The paper presented addresses how times have changed and what are the new methods to identify these changes, thus necessitating a newer articulation. 
 * mapping Alexander's spatial research strategies - 3months August October. Objective 02/ A result of content compiled till now five phases are observed around ideas produced by the practice. Four of these are shifts between four of his publications that begins with Community and Privacy and culminates at Battle for the Life and Beauty of the Earth.
-* Alexander vs Schön's reflective practice - 2months November December. Though the propositions in Donald Schön's The Reflective Practitioner has transformed work of a generation, Alexander's ideas seems to have preceded or possibly laid ground for reflection in practice as an ideology. To what extent both positions find common ground is factor to address when considering future.
+  * Alexander vs Schön's reflective practice - 2months November December. Though the propositions in Donald Schön's The Reflective Practitioner has transformed work of a generation, Alexander's ideas seems to have preceded or possibly laid ground for reflection in practice as an ideology. To what extent both positions find common ground is factor to address when considering future.
 * addressing knowledge gaps, proposal for an alexander design studio plan - 1month January 2023. Objective 03/ Architectural design studio's rarely address theory making that goes into solving an architectural question. Studios focus more on drawing of plans instead of strategies to think them out. If a theory centric #alexander studio is planned, can it help trigger students to see their learning practice and therefore future professional work differently.
 
 ### 5.	References
