@@ -21,4 +21,5 @@ This puts his #india phase in a conundrum.
 There are also multiple layers of thought informing the various phases of production by him.
 A question that immediately comes up, is there an India centric trajectory here in his theories?
 Is working on his ideas relevant for present day discourses on regional spatial knowledge production?
-* 2204122357    
+* 2204122357
+* posted https://www.instagram.com/p/CcQuoW4PQUl/ 
