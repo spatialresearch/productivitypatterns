@@ -9,7 +9,7 @@
   * evolution of frameworks of productivity
   * rethink zettelkasten
   * think productivity in non .md file formats
-# #readingalexander
+# #alexandermethods
 * books
   * [The Timeless Way of Building](https://archive.org/details/the-timeless-way-of-building-christopher-alexander-126)
   * [A Foreshadowing of 21st Century Art](https://archive.org/details/AForeshadowingOf21stCenturyArt/mode/2up)
@@ -56,7 +56,8 @@
   * [Nature of Order](http://www.natureoforder.com/overview.htm/)
   * [Katarxis No 3](http://www.katarxis3.com/index.html)
 # working updates
-* 2203242001 added reading alexander, tracing knowledge maps
+* 2204182005 #readingalexander revised to #alexandermethods
+* 2203242001 added #readingalexander, tracing knowledge maps
 * 2203230917 time, VSs and #s deleted on views, added PWM & Place tabs
 * 2201281121 item type VS05, place field
 * 2201181023 personal workflow management | PWM = PDM + PIM + PKM
