@@ -55,7 +55,7 @@
   * [Wherever you are in the world, if you are intent on planning and building a thriving neighborhood](http://www.livingneighborhoods.org/)
   * [Nature of Order](http://www.natureoforder.com/overview.htm/)
   * [Katarxis No 3](http://www.katarxis3.com/index.html)
-# working updates
+# #workingupdates
 * 2204182005 #readingalexander revised to #alexandermethods
 * 2203242001 added #readingalexander, tracing knowledge maps
 * 2203230917 time, VSs and #s deleted on views, added PWM & Place tabs
