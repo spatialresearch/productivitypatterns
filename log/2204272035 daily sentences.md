@@ -1,0 +1,24 @@
+## 2204272035 daily sentences
+
+* abstract:: finding personal productivity patterns through a brief history of note-taking
+* An urgency to create notes and therefore a system to create intelligence from it is very influenced by the #roamcult. 
+Without RoamResearch as ideology we wouldn't have this discussion.
+The proposition they and now every other .mdish note-taking app outlined is, the amount of information today's knowledge worker has access to is much higher than what was previously considered even possible.
+Their thesis is to make sense of it all you should take notes and link those notes together within an ecosystem their apps create.
+The process of taking notes creates more information of information which doesn't solve the problem of material excess but only patches it, also while possibly complicating the problem.
+If there is a date when I formally entered this discourse it is on the 23rd of February 2021, when I signed into #roamresearch and began #roamlearning. 
+To do Roam takes up a lot of your time in learning how to take notes in the application by being part of the community and its extended activities. 
+The template Conor et al. creates, 1. theory, 2. system, and 3. community is now taken as model for thinking knowledge management for a part of the internet.
+This discussion is about situations leading to a theory on PKM, alternatively how is a theory about a personal knowledge management assembled?
+Knowledge graphs are an industrial solution to a problem and up until Roam was used by Google and the likes.
+It is never applied previously as a personal solution.
+I have begun and traced this exercise several times, so this text will tie all my attempts in thinking about my various note-taking attempts from 1996 till now.
+What are my patterns of productivity leading to an imagination of a personal knowledge graph?
+* 2205011551
+* Name:: [[Isaac Mathew]]
+* Chapter:: [[Constructing a Formwork for a Personal Architectural Knowledge Graph, A Brief History of Note-Taking]]
+* Twitter:: https://twitter.com/shoppingtheatre 
+* LinkedIn:: https://www.linkedin.com/in/spatialresearch/
+* Website:: https://github.com/spatialresearch/productivitypatterns 
+* Email:: isaac at spatialresearch dot net
+* Bio:: Isaac is an architect based in Thiruvananthapuram, Kerala, India. He is currently attempting to complete a survey of architectural imagination between 1961 to 2021 as foundation work to develop towards a Ph.D research soon. He has been in traditional construction, urban design research publishing and design academia.
