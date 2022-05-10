@@ -21,4 +21,4 @@ What are my patterns of productivity leading to an imagination of a personal kno
 * LinkedIn:: https://www.linkedin.com/in/spatialresearch/
 * Website:: https://github.com/spatialresearch/productivitypatterns 
 * Email:: isaac at spatialresearch dot net
-* Bio:: Isaac is an architect based in Thiruvananthapuram, Kerala, India. He is currently attempting to complete a survey of architectural imagination between 1961 to 2021 as foundation work to develop towards a Ph.D research soon. He has been in traditional construction, urban design research publishing and design academia.
+* Bio:: Isaac is an architect based in Thiruvananthapuram, Kerala, India, developing a research based architectural practice. At the moment he is conducting a literature survey of architectural imagination between 1961 to 2021. This research acts as foundation to develop towards a practice based Ph.D research. He has previously worked in traditional construction, urban design research publishing and academia.
